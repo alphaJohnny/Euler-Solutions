@@ -34,7 +34,7 @@ d_max = ''
 
 # Iterate
 for i in range(0, 1000-13+1, 1):
-    d = d1000[i:i+13]
+    d = d1000[i: i+13]
     # check that it did pick 13 digits
     print(d)
     product = 1 # reset to 1
