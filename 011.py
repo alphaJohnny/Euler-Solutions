@@ -47,7 +47,7 @@ for r in range(0, ar2dim.shape[1]):
         if product > biggest_product:
             biggest_product = product
 
-`
+
 print("columns : ")
 for c in range(0, ar2dim.shape[0]):
     # looping through rows
